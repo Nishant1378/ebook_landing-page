@@ -1,0 +1,6 @@
+.navbar-nav{
+   margin-left:auto;
+}
+.navbar-nav >li{
+    margin-right: 15px;
+}
